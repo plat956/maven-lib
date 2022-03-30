@@ -42,8 +42,8 @@
               <addClasspath>true</addClasspath>
             </manifest>
             <manifestEntries>
-              <Lib-name>${project.name}</Lib-name>
-              <Lib-version>${project.version}</Lib-version>
+              <Implementation-Title>${project.name}</Implementation-Title>
+              <Implementation-Version>${project.version}</Implementation-Version>
             </manifestEntries>
           </archive>
         </configuration>
